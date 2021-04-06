@@ -1,0 +1,51 @@
+Enemy types:
+
+Imp:
+
+Slime:
+
+Ghost:
+
+Hellhound:
+
+Golem:
+
+Elemental:
+
+Undead:
+
+Wolf:
+
+Orc:
+
+
+
+
+Enemy Classes:
+
+Beast:
++HP
+-Mana
++Atk
+~Def
+Skills: Scratch, Lunge, Swipe, Etc
+
+Beast Alpha:
+++HP
+-Mana
+++Atk
++Def
+Skills:
+
+Elite:
++HP
++Mana
++Atk
++Def
+Skills:
+
+
+
+
+
+

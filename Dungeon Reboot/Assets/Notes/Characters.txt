@@ -1,0 +1,169 @@
+
+Iskaed - Dragonkin, Floor Boss, Recruitable
+Location - 5th Floor Boss, so, I mean, he's on the 5th floor (But he's only there cause he's bored and was looking for something to do)
+Personality - Basically the spoiled problem child of the dungeon, everyone takes care of him though, they don't mind, but he doesn't really notice this, pretends he's larger than life and way more dangerous than he actually is, 100% was just showing off for attention, very confident in himself, yes, this leads to many problems (and broken things)
+Level: 5
+Stats:
+-Strength
+-Charisma
+-Vitality
+Class: Warrior or Paladin (Elite?)
+Notes:
+This is the key character where the player makes a choice to subdue, kill, or talk, killing will make everything *much* harder, locking the party system, winning the fight without killing him is fine, and will allow you to negotiate with monsters, but not outright recruit them, and talking unlocks the party system, negotiations, and recruits him
+
+Appearance:
+He's a dragonkin, he's gonna look somewhat draconic, most definitely horns, possibly a tail and some scales, basically an Au'Ra from FFXIV, but not, cause copying another games race is bad, yes, definitely bad, probably around 6ft, somewhat buff, carries himself with confidence
+
+-----------------------------------------------------------------------------------------
+
+Rit - Imp, Shopkeeper, Recruitable? Maybe
+Location - Well, I mean, in shops. He's a shopkeeper. But also other places too, he's also a demon
+Personality - I mean, demonic shopkeeper, he's gonna try to sell you anything and everything for the highest price he can get without outright stealing your money, dangerous. but mostly to your wallet, will still kill you without a second glance if you try to cross him (or call him short)
+Level: 7
+Stats:
+-Luck
+-Charisma
+-Intelligence
+Class: Mage, duh (Or Shopkeep, basically same thing)
+Notes: 
+Standard demonic shopkeeper who will take all of your money without you realizing it, probably should be a Rogue, maybe make a special Mage/Rogue hybrid for him?
+(Will still sell to you if you kill Iskaed, as he's not actually linked to the dungeon)
+
+Appearance:
+Smol, some shade of red-ish, most likely some non-functional wings, probably standard devil tail, y'know the drill, 4ft-5ft, always has some sort of stabbing implement on him, dresses the part of a merchant, y'know, 'cause he is one
+
+-----------------------------------------------------------------------------------------
+
+Brin - Hellhound Alpha, Floor Boss, Recruitable? Probably
+Location - ???
+Personality - Protective, Loyal, probably can talk somehow as he's a boss, does NOT like to play fetch, anyone who tells you otherwise is lying, bones = good, he's just a big lazy dog, his bark is pretty bad, but not worse than his bite, the bite melts people
+Level: 
+Stats:
+Class: Beast Alpha (Not Beastmaster, big difference, as y'know, one's an animal)
+Notes: Doggo
+
+Appearance:
+Big dog (from hell), red/black magma looking fur, red/orange glowing eyes, no, he doesn't have 3 heads, that's a Cerberus thing, yes, he curls into a ball when he sleeps, and yes, it's very cute
+
+-----------------------------------------------------------------------------------------
+
+Moth - Orc, Recruitable
+Location - 
+Personality - Big soft boi
+Level: 
+Stats:
+-Charisma
+-Vitality
+-Strength
+Class: Paladin
+
+Appearance:
+Big soft boi, green, tusks, standard buff Orc, 
+
+-----------------------------------------------------------------------------------------
+
+Ikzun - Wyvern,
+Location - 
+Personality - 
+Level:
+Stats:
+
+Class:
+
+Appearance:
+
+-----------------------------------------------------------------------------------------
+
+Kholehk - Golem, Floor Boss, Golem Duo 
+Location - 10th Floor
+Personality - 
+Level: ?
+-Stats:
+-Intelligence
+-Dexterity
+-Luck
+Class: Summon/Construct (Mage)
+
+Appearance:
+
+-----------------------------------------------------------------------------------------
+
+Bahn - Golem, Floor Boss, Golem Duo
+Location - 10th Floor
+Personality - 
+Level: ?
+Stats:
+-Vitality
+-Strength
+-Charisma
+Class: Summon/Construct (Paladin/Defender)
+
+Appearance:
+
+-----------------------------------------------------------------------------------------
+
+
+Location - 
+Personality - 
+Level:
+Stats:
+
+Class:
+
+Appearance:
+
+
+-----------------------------------------------------------------------------------------
+
+
+Location - 
+Personality - 
+Level:
+Stats:
+
+Class:
+
+Appearance:
+
+
+-----------------------------------------------------------------------------------------
+
+
+Location - 
+Personality - 
+Level:
+Stats:
+
+Class:
+
+Appearance:
+
+
+-----------------------------------------------------------------------------------------
+
+
+Location - 
+Personality - 
+Level:
+Stats:
+
+Class:
+
+Appearance:
+
+
+-----------------------------------------------------------------------------------------
+
+Crothu - Orc, One of the Six Heroes, Dead (Maybe?)
+-Only really mentioned in the intro, maybe a few other places
+-Represents the Orc race, most likely playable
+-Represents the Warrior class
+
+--------
+
+
+
+-----------------------------------------------------------------------------------------
+
+//Possible Names/Characters
+Auxor, Ogun, Autar, 

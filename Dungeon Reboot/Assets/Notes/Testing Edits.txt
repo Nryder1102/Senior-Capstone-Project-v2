@@ -1,0 +1,7 @@
+-Put Queue Dialogue on Name Confirm
+-Put Intro Scene after Player Creation
+-Put Pronoun Terms on Pronoun Confirm
+-Debug Log in Pronoun Terms
+-Debug Log in Queue Dialogue (Only goes off if button is actually pressed)
+-Debug Log in Gender Select(s)
+-Figure out how to queue the dialogue on either hitting enter or hitting the button without needing to make a whole second function

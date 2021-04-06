@@ -1,0 +1,23 @@
+First off, backstory, introducing world, then say but none of that matters because you're stuck down here, in this lightless cave, not knowing who you are or how you got here, listening to basic history lessons from the voices in your head
+
+Next, Ask Gender:
+----------------------
+??? prods you to start remembering, first off asking your pronouns
+
+Next, Ask Race:
+----------------------
+??? then tells you the tales of 6 great heroes, one of each race, asking you which one you believe you are most like
+
+Next, Ask Class:
+----------------------
+??? continues the stories, telling you of how each specialized, then asks you which of the 6's paths you'd like to follow most
+
+Next, Ask Name:
+----------------------
+??? confirms all of your information, then comments on it, before saying it's time to get up, you can't just lay there all day listening to make believe voices
+
+
+
+Testing out Dialogue and Dialogue trigger from this video: https://www.youtube.com/watch?v=_nRzoTzeyxU
+
+(Hexadecimal for later): #7468A8

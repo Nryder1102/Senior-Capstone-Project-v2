@@ -1,0 +1,24 @@
+The standard rogue, warrior, paladin, archer, mage, etc
+Beastmaster/Tamer either a branch of of one of those or a base class
+Captured monsters stats could most likely easily be stored through text and variables, find out how
+Can most likely do something unique with each class, or add in multiclassing depending on things
+If multiclassing was a thing, how to seperate the levels? Player can choose at each? Every 5 levels the player's allowed to essentially switch classes? Subclasses?
+
+-Rogue would obviously be based on stealth, dextereity, and loot
+
+-Warrior would basically be a paladin but based on attacking, still somewhat tanky, but nowhere near the paladin
+
+-Paladin religion, tanky, holy stuff, light healing, yada yada
+
+-Mage well, magic, duh, powerful ranged attacks would be the focus, probably average dexterity but defnitely couldn't stand as much damage as the other classes, maybe summon elementals at some point for melee attacks? Spellsword subclass or something?
+
+-Archer also based on ranged attacks, also duh, maybe gain a singular beast companion at some point to make up for the lack of close attacks, maybe specialize further and slowly rely on captured monster/aka the beastmaster?
+
+-Beastmaster would be able to capture wild beasts and use them in a fight, most likely a limit of 2-4, with either 1 or 2 active at a time in battle
+
+**Being able to pet doggos is a must**
+
+This means a variety of monsters is needed, even if it's just color palette swaps, bosses would probably be able to be captured if really lucky too
+
+**Consider how to incorporate VR**
+Maybe have the player actually attack/shoot? As well as dodge attacks, sort of like Arcaxer? Or continue to go through with my 2D pixel battlefield idea, but with a cinematic view for the player, sort of how the Octopath battles are

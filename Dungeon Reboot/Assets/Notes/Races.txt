@@ -1,0 +1,13 @@
+Playable Races:
+
+Human - +3 Attr Pts, 
+
+Orc - +2 Str, +1 Vit, 
+
+Dwarf - +2 Vit, +1 Str, 
+
+Elf - +2 Int, +1 Chr, Higher chance to Crit on Spells
+
+Dragonkin - +1 Str, +1 Int, +1 Chr, 
+
+Imp - +1 Chr, +1 Luk, +1 Dex, Discount at Shops

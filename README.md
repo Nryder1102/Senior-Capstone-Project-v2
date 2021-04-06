@@ -1,2 +1,2 @@
-# Senior-Capstone-Project-v2
-Since the first repository imploded, here's a reupload
+# Senior-Capstone-Project
+Dungeon Reboot is the main project in this repository, and the only one actively being worked on
