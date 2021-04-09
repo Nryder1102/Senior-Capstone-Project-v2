@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class Dialogue : MonoBehaviour
-{ 
+{  
     public static string[] pTerms;
     public static string pGender = GameManager.playerGender;
     public static string pName = GameManager.statPlayerName;

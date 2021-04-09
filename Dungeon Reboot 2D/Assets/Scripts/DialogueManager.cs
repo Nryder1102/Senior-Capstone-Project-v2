@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
-
+ 
     //Variables that will be used in most scenes
     public static string currentSpeaker;
     public static bool characterKnown;

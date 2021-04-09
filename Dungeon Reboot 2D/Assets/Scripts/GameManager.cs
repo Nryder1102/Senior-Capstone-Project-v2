@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
-{
+{ 
     //Class Select
     public Button roguebttn;
     public Button magebttn;
