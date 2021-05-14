@@ -34,7 +34,7 @@ public class Dialogue : MonoBehaviour
          //Provide background on the world, tell stories of the 6 heroes and what's to come
         introText.Enqueue("Once upon a time, war ravaged the lands, and a hero was called for by the Fates themselves to reunite the races as one.");
         introText.Enqueue("Don't get your hopes up now, this is a history lesson remember? You certainly aren't that hero.");
-        introText.Enqueue("Now, going back to the story, there was a little... problem, you see, a little... hiccup, in the Fates' design, no big deal, really.");
+        introText.Enqueue("Now, going back to the story, there was a little... problem, a little... hiccup, in the Fates' design, no big deal, really.");
         introText.Enqueue("Except for well, the fact that they called for too many heroes, one from each major race, advancing the war, instead of ending it.");
         introText.Enqueue("Now, instead of just a normal territory war, it suddenly turned into much, much more almost overnight, after all, when you have six heroes, and a prophecy made for one, things get a little hectic.");
         introText.Enqueue("And now they've left that whole mess for me to deal with.");

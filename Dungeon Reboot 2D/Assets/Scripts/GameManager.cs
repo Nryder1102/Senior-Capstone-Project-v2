@@ -24,10 +24,11 @@ public class GameManager : MonoBehaviour
     public GameObject menuUI;
     public GameObject invUI;
     public GameObject saveUI;
-    public GameObject loadUI;
     public GameObject uiBG;
     public static GameObject dialogueUI;
     public static GameObject allUI;
+    public GameObject mainMenuUI;
+    public GameObject settingsUI;
     
 
     //Wait Function variables
@@ -106,25 +107,7 @@ public class GameManager : MonoBehaviour
     {
         allUI = GameObject.FindWithTag("Canvas");
         dialogueUI = GameObject.FindWithTag("Dialogue");
-        cconfirm.interactable = false;
-        classSelectUI.SetActive(false);
-        barsUI.SetActive(false);
-        skillUI.SetActive(false);
-        statusUI.SetActive(false);
-        menuUI.SetActive(false);
-        invUI.SetActive(false);
-        loadUI.SetActive(false);
-        saveUI.SetActive(false);
-        playerCreation.SetActive(true);
-        playerNameEntry.SetActive(false);
-        playerRaceSelect.SetActive(false);
-        playerNameConfirm.interactable = false;
-        playerPronounConfirm.interactable = false;
-//        objectLeft.interactable = false;
-        introScene.SetActive(true);
-        playerGenderSelect.SetActive(false);
-        ItemManager.weapTab = true;
-        DialogueManager.diaTreePos = 1;
+        mainMenuUI.SetActive(true);
         
     }
 
@@ -180,6 +163,31 @@ public class GameManager : MonoBehaviour
         {
             PlayerCreation();
         }
+    }
+
+    public void NewGame(){
+        mainMenuUI.SetActive(false);
+        cconfirm.interactable = false;
+        classSelectUI.SetActive(false);
+        barsUI.SetActive(false);
+        skillUI.SetActive(false);
+        statusUI.SetActive(false);
+        menuUI.SetActive(false);
+        invUI.SetActive(false);
+        saveUI.SetActive(false);
+        playerCreation.SetActive(false);
+        playerNameEntry.SetActive(false);
+        playerRaceSelect.SetActive(false);
+        playerNameConfirm.interactable = false;
+        playerPronounConfirm.interactable = false;
+//        objectLeft.interactable = false;
+        introScene.SetActive(false);
+        playerGenderSelect.SetActive(false);
+        ItemManager.weapTab = true;
+        DialogueManager.diaTreePos = 1;
+        playerCreation.SetActive(true);
+        introScene.SetActive(true);
+       
     }
 
     //Functions to start different system trees
@@ -660,5 +668,15 @@ public class GameManager : MonoBehaviour
             statPlayerName = "Omega-Xis";
             ClassManager.className = "Wizard";
         }
+    }
+
+    //Main Menu Functions
+
+    //Settings Functions
+    public void SettingsClose(){
+        settingsUI.SetActive(false);
+    }
+    public void SettingsOpen() {
+        settingsUI.SetActive(true);
     }
 }

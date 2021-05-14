@@ -22,6 +22,7 @@ public class DialogueManager : MonoBehaviour
     public static int lineFlag = 0;
     public static int diaTreePos = 0;
 
+
  
     //The meaty stuff
 
@@ -211,4 +212,6 @@ public class DialogueManager : MonoBehaviour
     {
 
     }
+
+    
 }
